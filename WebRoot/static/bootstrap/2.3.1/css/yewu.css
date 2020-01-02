@@ -1,0 +1,22 @@
+.zxzx_list{height: 169px;border: 1px solid #d8d5d5;}
+.zxzx_list .tt{height: 34px;margin-bottom: 2px;border-bottom: 1px solid #d8d5d5;}
+.zxzx_list .tt h1,
+.zxzx_list .tt h2,
+.zxzx_list .tt h3,
+.zxzx_list .tt h4,
+.zxzx_list .tt h5,
+.zxzx_list .tt h6{color:red;font-weight:bold}#element_id{overflow:hidden; width:100%;height:179px;margin:0 auto;}
+#element_id ul,li{
+    margin:0;
+    padding:0;
+    list-style:none;
+
+}
+#element_id li{padding:0;line-height:24px;height:24px;overflow:hidden;text-align:left;}
+#element_id li span{font-size:15px; font-family:"微软雅黑"; line-height:30px; color:#333333;border-bottom:1px dashed #eeeeee;}
+#element_id li .span1{ width:20%; float:left; text-align:left; overflow:hidden; padding:0 1px;}
+#element_id li .span2{ width:30%; float:left; text-align:left; overflow:hidden; padding:0 1px;}
+#element_id li .span3{ width:12%; float:left; text-align:center; overflow:hidden; padding:0 1px;}
+#element_id li .span4{ width:8%; float:left; text-align:center; overflow:hidden; }
+
+
